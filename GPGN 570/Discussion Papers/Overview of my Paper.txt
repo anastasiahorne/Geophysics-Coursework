@@ -1,0 +1,36 @@
+ABSTRACT Overview of the Paper:
+Purpose:
+Ice algae are a key component to the polar marine ecosystem, they have been under-sampled due to the difficulty of data collection in cold regions, and the fact that traditional sampling methods only allow for discrete sampling, preventing researchers from get a useful time series of data, and from gathering data over a large area. 
+
+Methodology:
+Ice-algal samples were put into an inverted sea-ice simulation tank, spread out sparsely, within cylinder enclosers. This was done repeatedly for different concentrations of ice-agal. Then hyperspectral images were captured using a "pushbroom" sensor at 0.9 mm pixel resolution and various spectral resolutions. 
+
+Results:
+Some spectral resolutions were able to find spectral variations in algal biomass and biomass distribution. 
+
+Conclusion:
+The test set up was a suitable analogue platform for testing key parameters and methodology. Results show that this method has the POTENTIAL to capture sea-ice algal biomass variability.
+
+Abstract Specific notes:
+2nd to last sentence: Is there evidence in the paper or results that show that the inverted ice tank is a good representation of real processes/occurrences? In other words, does it model the real sea-ice-algal interactions such that results can be projected onto larger real-world platforms?
+
+Last sentence: It makes it sound like they aren't certain hyperspectral imagery is the way to go. It has the "potential", will be interesting to see thorough paper conclusions and if there are any "next steps". 
+
+INTRODUCTION:
+
+Pelagic herbivores are aquatic animals that live within the open water column. This is the area away from the boundaries of an ocean or lake. For example, they would be away from the bottom, and shores.
+
+WHY ARE SEA ALGAL IMPORTANT:
+
+chlorophyll-a very important to stuff
+
+
+LOOK INTO THE AUTHORS to figure out each of their contributions
+
+Have set slides that you present on, and then extra slides that explain important details that might come up in the discussion (like info about the authors)
+
+Potential Questions:
+Based on the details provided do you think the experimental setup is a good analogy to the real world?
+What do you think about using this apparatus on an airplane or satellite, which do you think is more appropriate?
+Why are hyperspectral cameras/images preferred over other imaging techniques?
+Is there anything the experiment could have done better?
